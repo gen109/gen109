@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">🌊 Welcome to My GitHub 🌊</h1>
 <p align="center">
 
@@ -61,21 +60,3 @@ I am a passionate Full Stack Engineer specializing in core system development fo
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
 
 ---
-=======
-## Hi there 👋
-
-<!--
-**gen109/gen109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> a31051ec91ab20d832597af913ba895f312f0f12
