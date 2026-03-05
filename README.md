@@ -49,7 +49,7 @@ I am a passionate Full Stack Engineer specializing in core system development fo
 ![JP1](https://img.shields.io/badge/JP1-000000?style=for-the-badge&logo=hitachi&logoColor=white)
 ![TeraTerm](https://img.shields.io/badge/TeraTerm-000000?style=for-the-badge&logo=teraterm&logoColor=white)
 
-### 📝 IDEs / Editors
+### 📝 IDE / Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -60,3 +60,31 @@ I am a passionate Full Stack Engineer specializing in core system development fo
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
 
 ---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gen109&theme=moonlight" width="100%">
+</p>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gen109&theme=moonlight" width="100%">
+    </td>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gen109&theme=moonlight" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gen109&theme=moonlight" width="100%">
+    </td>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gen109&theme=moonlight&utcOffset=9" width="100%">
+    </td>
+  </tr>
+</table>
